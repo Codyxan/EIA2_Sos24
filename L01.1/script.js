@@ -1,3 +1,2 @@
-let v = "1" ;
-v = v + 1 ;
+let v = "hallo" ;
 console.log(v);
